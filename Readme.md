@@ -172,21 +172,21 @@ README.md
 
 This project automates several common database operations:
 
-- ✔ Automatic ID generation for Suppliers, Products, Customers, and Orders.
+- Automatic ID generation for Suppliers, Products, Customers, and Orders.
     
-- ✔ Order creation with automatic date assignment.
+- Order creation with automatic date assignment.
     
-- ✔ Transaction management with rollback and exception handling.
+- Transaction management with rollback and exception handling.
     
-- ✔ Inventory validation before accepting customer orders.
+- Inventory validation before accepting customer orders.
     
-- ✔ Automatic stock deduction after successful order placement.
+- Automatic stock deduction after successful order placement.
     
-- ✔ Automatic inventory adjustment when existing orders are modified.
+- Automatic inventory adjustment when existing orders are modified.
     
-- ✔ Automatic cleanup of dependent records when products are deleted.
+- Automatic cleanup of dependent records when products are deleted.
     
-- ✔ Reusable reporting through SQL Views.
+- Reusable reporting through SQL Views.
     
 
 ---
